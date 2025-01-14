@@ -60,11 +60,7 @@
 На дашборде созданы две карточки, которые отображают полученную выручку и количество проданных пицц за все время.
 
 <p align="center">
-    <img src="image.png" alt="Рис 1" />
-</p>
-
-<p align="center">
-    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-1.JPG" alt="Рис 1" />
+    <img src="https://github.com/darazazulina/Pizza_place_sales/blob/main/images/pic-1.JPG" alt="Рис 1" />
 </p>
 
 #### Выручка по месяцам
@@ -72,7 +68,7 @@
 Выручка, распределенная по месяцам, представлена графиком. По нему можно увидеть наиболее и наименее прибыльные месяцы. Июль был самым прибыльным, октябрь самым убыточным за представленный период.
 
 <p align="center">
-    <img src="image-1.png">
+    <img src="https://github.com/darazazulina/Pizza_place_sales/blob/main/images/pic-2.JPG" alt="Рис 2" />
 </p>
 
 #### Наиболее и наименее продаваемые пиццы
@@ -80,7 +76,7 @@
 С помощью двух таблиц на дашборде отображены топ из пяти покупаемых и не покупаемых покупаемых пицц. Самая популярная пицца - "The Classic Deluxe Pizza", самая не популярная пицца - "The Brie Carre Pizza".
 
 <p align="center">
-    <img src="image-2.png">
+    <img src="https://github.com/darazazulina/Pizza_place_sales/blob/main/images/pic-3.JPG" alt="Рис 3" />
 </p>
 
 #### Выручка по категориям
@@ -88,7 +84,7 @@
 Распределение прибыли по категориям наиболее удобно может быть представлено круговой диаграммой. По ней можно увидеть, что пиццы всех категорий продаются почти в равных долях, хотя классическая категория более попоулярна.
 
 <p align="center">
-    <img src="image-3.png">
+    <img src="https://github.com/darazazulina/Pizza_place_sales/blob/main/images/pic-4.JPG" alt="Рис 4" />
 </p>
 
 ## Выводы
