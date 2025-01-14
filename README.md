@@ -60,7 +60,11 @@
 На дашборде созданы две карточки, которые отображают полученную выручку и количество проданных пицц за все время.
 
 <p align="center">
-    <img src="image.png">
+    <img src="image.png" alt="Рис 1" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-1.JPG" alt="Рис 1" />
 </p>
 
 #### Выручка по месяцам
