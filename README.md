@@ -2,6 +2,10 @@
 
 Инструменты: Power BI Desktop.
 
+<p align="center">
+    <img src="https://github.com/darazazulina/Pizza_place_sales/blob/main/images/pic-5.JPG" alt="Рис 5" />
+</p>
+
 ## Исходные данные
 
 Набор данных [Pizza Place Sales](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales) размещен на kaggle.
